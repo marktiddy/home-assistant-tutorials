@@ -7,9 +7,11 @@ A collection of notes, examples, and configuration files to accompany videos fro
 
 ## Tutorials
 
-| Tutorial                                                                                                                                                                | Description                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [Camera Thumbnail Notifications in Home Assistant](https://github.com/marktiddy/home-assistant-tutorials/blob/main/camera-thumbnail-notifications-in-home-assistant.md) | Send Home Assistant mobile notifications with camera thumbnails to your phone and Apple Watch. |
+| Tutorial                                                                                                                                                                     | Description                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [Camera Thumbnail Notifications in Home Assistant](https://github.com/marktiddy/home-assistant-tutorials/blob/main/camera-thumbnail-notifications-in-home-assistant.md)      | Send Home Assistant mobile notifications with camera thumbnails to your phone and Apple Watch. |
+| [SwitchBot EInk Display/Weather Station Family Calendar](https://github.com/marktiddy/home-assistant-tutorials/blob/main/switchbot-weather-station-merge-calendars.md)       | Send Home Assistant mobile notifications with camera thumbnails to your phone and Apple Watch. |
+| [SwitchBot EInk Display/Weather Station Custom Screens API](https://github.com/marktiddy/home-assistant-tutorials/blob/main/switchbot-weather-station-custom-screens-api.md) | Send Home Assistant mobile notifications with camera thumbnails to your phone and Apple Watch. |
 
 ## About
 
